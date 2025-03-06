@@ -1,0 +1,9 @@
+2024-11-28 8:21:05 PM[Server Started]
+GET Crocodile.jpeg HTTP/1.1
+HOST: localhost
+
+2024-11-28 8:21:15 PMHTTP/1.1 200 OK
+Date: Fri, 29 Nov 2024 01:21:15 GMT
+Content-Type: file
+Content-Length: 37620
+
